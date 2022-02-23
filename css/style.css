@@ -9,6 +9,7 @@
 	margin: 0 auto;
 }
 
+
 .title {
 	margin: 0 0 26px 0;
 	font-family: 'Lato', sans-serif;
@@ -20,6 +21,7 @@
 }
 
 img{
+	display: block;
 	margin: 0 0 60px 0;
 }
 
@@ -106,7 +108,7 @@ p, ul {
 .who-we-are {
 	max-width: 390px;
 	margin: 0 auto;
-}
+} 
 .sub-title3 {
 	font-family: 'Lato', sans-serif;
 	font-style: normal;
@@ -135,7 +137,25 @@ p, ul {
 	margin-bottom: 12px;
 }
 
-.link{
+.button{
+	width: 161px;
+	height: 44px;
+	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+	border-radius: 4px;	
+	display: inline-block;
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 3.14;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+	padding: 0 32px ;
+}
+
+
+
+/* .button{
 	width: 161px;
 	height: 44px;
 	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
@@ -155,6 +175,6 @@ p, ul {
 	padding: 10px 0px 0px 32px;
 	align-items: center;	
 	text-align: center;
-}
+} */
 
 
