@@ -1,0 +1,160 @@
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+.wrapper{
+	max-width: 830px;
+	max-height: 100%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.title {
+	margin: 0 0 26px 0;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.25;
+	font-style: normal;
+	color: #1E212C;
+}
+
+img{
+	margin: 0 0 60px 0;
+}
+
+.sub-title {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 1.4;
+	color: #1E212C;
+	margin: 0 0 24px 0;
+}
+
+p, ul {
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	color: #424551;
+	line-height: 1.6;
+	font-style: normal;
+}
+
+.paragraph1{
+	margin-bottom: 40px;
+}
+
+.paragraph2{
+	margin-bottom: 48px;
+}
+
+.sub-title2 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 1.4;
+	color: #1E212C;
+	padding-left: 58px;
+	margin: 0 0 48px 0px;
+	background: url('../img/Rectangle\ 267.svg') 0 0 no-repeat, url('../img/Rectangle\ 267.svg') 18px 0 no-repeat;
+}
+
+.paragraph3{
+	margin-bottom: 24px;
+}
+
+.sub-list{
+	background: url('../img/list.svg') 0 5px / 16px no-repeat;
+	padding-left: 38px;
+	margin-bottom: 4px;
+}
+
+.paragraph4{
+	margin-top: 24px;
+	padding: 0px 0px 100px 0px;
+}
+
+.date {
+	display: inline-block;
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #787A80;
+	margin: 0px 0px 40px 0px;
+	background: url('../img/Vector\ \(Stroke\).svg') 0 5px no-repeat;
+	padding: 0px 0px 0px 24px;
+}
+.min {
+	display: inline-block;
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #787A80;
+	margin: 0px 0px 40px 0px;
+	background: url('../img/Union.svg') 24px 5px no-repeat;
+	padding: 0px 0px 0px 48px;
+}
+
+
+.who-we-are {
+	max-width: 390px;
+	margin: 0 auto;
+}
+.sub-title3 {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 150%;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #1E212C;
+	margin: 0px 0px 8px 0px;
+}
+.why-title {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin: 0px 0px 40px 0px;
+}
+
+
+.sub-list2{
+	background: url('../img/list.svg') 0 6px / 16px no-repeat;
+	padding-left: 38px;
+	margin-bottom: 12px;
+}
+
+.link{
+	width: 161px;
+	height: 44px;
+	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+	border-radius: 4px;	
+}
+
+.button {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	width: 97px;
+	height: 44px;	
+	font-size: 14px;
+	line-height: 3.14;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+	padding: 10px 0px 0px 32px;
+	align-items: center;	
+	text-align: center;
+}
+
+
